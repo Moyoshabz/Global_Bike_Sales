@@ -1,0 +1,63 @@
+# Global_Bike_Sales
+
+CONTENT
+
+Executive Summary
+
+Introduction: Data set Overview and Visualization Information
+
+Key Insights
+
+Strategic Recommendation
+
+Conclusion
+
+Appendix
+
+EXECUTIVE SUMMARY
+
+Purpose
+
+This report offers a summary of bike sales transactions across different product categories. Its goal is to identify trends and opportunities for improvement by analyzing sales data. Additionally, it provides recommendations to management on how to increase sales and profitability.
+
+
+Recommendation
+
+Cross-Promote Bikes with Clothing and Accessories
+
+Targeted Marketing Campaigns
+
+Product Differentiation
+
+Market Research and Customer Insights
+
+
+Introduction: Dataset Overview and manipulation 
+
+Dataset Name: Global_Sales.csv
+
+The dataset provides information on bike sales transactions over 6 years, including purchases of accessories and clothing items in different countries like Australia, Canada, and France. The data includes details on the number of items sold, their cost, and the total revenue generated during this period.
+
+
+Data Visualization Information
+
+Use of clustered column chart to compare the average sales, by business location per product category.
+The use of bar chart to show the most profitable product in Canada based on revenue.
+
+
+Average Sales Per Country and Product Category
+
+The analysis reveals that the product category "Bikes" has the highest contribution to the total revenue across all six locations
+On the other hand, the graph suggests that "Clothing and Accessories" could be the least profitable.
+
+
+
+![Insight_1](relative/path/to/image.png)
+
+
+
+
+
+
+
+
