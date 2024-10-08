@@ -100,7 +100,7 @@ Following these recommendations can help the business enhance its product offeri
 
 Thank you for reading through.
 
-Please feel free to give reocmmendation on how i could improve my Analysis.
+Please feel free to give recommendation on how i could improve my Analysis.
 
 
 
